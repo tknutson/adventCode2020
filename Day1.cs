@@ -21,6 +21,9 @@ public class Program
 			for (var a = 0; a < expenseArray.Length; a++) {
 				sum = Convert.ToInt32(expenseArray[i]) + Convert.ToInt32(expenseArray[(a)]);
 				
+				if (found)
+					break;
+				
 				for (var b = 0; b < expenseArray.Length; b++) { 
 					if (equals2020(sum, Convert.ToInt32(expenseArray[(b)]))) { //((i + 1) != expenseArray.Length) 
 						//Console.WriteLine(Convert.ToInt32(expenseArray[i]) * Convert.ToInt32(expenseArray[(i + 1)]));
