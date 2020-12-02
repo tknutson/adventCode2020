@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\adventCode2020\\Advent\\AdventDay2_1\\Day2_Puzzle1.csproj",
-      "projectName": "Day2_Puzzle1",
-      "projectPath": "C:\\Git\\adventCode2020\\Advent\\AdventDay2_1\\Day2_Puzzle1.csproj",
+      "projectUniqueName": "C:\\Git\\adventCode2020\\Advent\\Day1_Puzzle2\\Day1_Puzzle2.csproj",
+      "projectName": "Day1_Puzzle2",
+      "projectPath": "C:\\Git\\adventCode2020\\Advent\\Day1_Puzzle2\\Day1_Puzzle2.csproj",
       "packagesPath": "C:\\Users\\TKnuts\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\adventCode2020\\Advent\\AdventDay2_1\\obj\\",
+      "outputPath": "C:\\Git\\adventCode2020\\Advent\\Day1_Puzzle2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TKnuts\\AppData\\Roaming\\NuGet\\NuGet.Config",
